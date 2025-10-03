@@ -1,0 +1,14 @@
+This is the content for the file `/git-collaboration-template/git-collaboration-template/src/data/sample_data.txt`:
+
+Welcome to the Git Collaboration Template!
+
+This file contains sample data that can be used for various exercises and tasks. Feel free to modify this data as you work through the exercises and learn about Git and GitHub collaboration.
+
+Sample Data:
+1. Lou, 32, Software Engineer
+2. Jim, 72, Data Scientist
+3. Skye, 22, Web Developer
+4. Aoife, 64, Product Manager
+5. Anjili, 35, DevOps Engineer
+
+You can add, remove, or change entries in this file to practice your Git skills. Happy coding!
