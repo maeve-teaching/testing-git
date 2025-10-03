@@ -2,7 +2,7 @@
 
 Welcome to the Git Collaboration Template! This repository is designed to help students learn how to collaborate using Git and GitHub, both in pairs and individually. 
 
-## Table of Contents
+## Table of Contents with things added
 - [Getting Started](#getting-started)
 - [Collaborative Workflow](#collaborative-workflow)
 - [Individual Workflow](#individual-workflow)
